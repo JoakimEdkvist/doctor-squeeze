@@ -10,7 +10,7 @@
     "new": false,
     "quantity": 1,
     "category": "smileys and people",
-    "imgUrl": "/images/ball-black.png"
+    "imgUrl": "images/ball-black.png"
   },
   {
     "name": "San Marino",
@@ -23,7 +23,7 @@
     "new": false,
     "quantity": 1,
     "category": "smileys and people",
-    "imgUrl": "/images/ball-blue.png"
+    "imgUrl": "images/ball-blue.png"
   },
   {
     "name": "Cyanide 2000",
@@ -36,7 +36,7 @@
     "new": false,
     "quantity": 1,
     "category": "smileys and people",
-    "imgUrl": "/images/ball-cyan.png"
+    "imgUrl": "images/ball-cyan.png"
   },
   {
     "name": "Golden Snitch",
@@ -49,7 +49,7 @@
     "new": false,
     "quantity": 1,
     "category": "smileys and people",
-    "imgUrl": "/images/ball-gold.png"
+    "imgUrl": "images/ball-gold.png"
   },
   {
     "name": "PGA Tour 95",
@@ -62,7 +62,7 @@
     "new": false,
     "quantity": 1,
     "category": "smileys and people",
-    "imgUrl": "/images/ball-green.png"
+    "imgUrl": "images/ball-green.png"
   },
   {
     "name": "Inner City Good Life",
@@ -75,7 +75,7 @@
     "new": false,
     "quantity": 1,
     "category": "smileys and people",
-    "imgUrl": "/images/ball-grey.png"
+    "imgUrl": "images/ball-grey.png"
   },
   {
     "name": "Guacamole",
@@ -88,7 +88,7 @@
     "new": false,
     "quantity": 1,
     "category": "smileys and people",
-    "imgUrl": "/images/ball-lime.png"
+    "imgUrl": "images/ball-lime.png"
   },
   {
     "name": "Dark squeezer",
@@ -101,7 +101,7 @@
     "new": false,
     "quantity": 1,
     "category": "smileys and people",
-    "imgUrl": "/images/ball-mordor.png"
+    "imgUrl": "images/ball-mordor.png"
   },
   {
     "name": "Purple Drank",
@@ -114,7 +114,7 @@
     "new": false,
     "quantity": 1,
     "category": "smileys and people",
-    "imgUrl": "/images/ball-purple.png"
+    "imgUrl": "images/ball-purple.png"
   },
   {
     "name": "Love Pump",
@@ -127,7 +127,7 @@
     "new": false,
     "quantity": 1,
     "category": "smileys and people",
-    "imgUrl": "/images/ball-red.png"
+    "imgUrl": "images/ball-red.png"
   },
   {
     "name": "Sunshine",
@@ -140,7 +140,7 @@
     "new": false,
     "quantity": 1,
     "category": "smileys and people",
-    "imgUrl": "/images/ball-yellow.png"
+    "imgUrl": "images/ball-yellow.png"
   },
   {
     "name": "Standard Squeezer",
@@ -153,7 +153,7 @@
     "new": false,
     "quantity": 1,
     "category": "smileys and people",
-    "imgUrl": "/images/ball-black.png"
+    "imgUrl": "images/ball-black.png"
   },
   {
     "name": "Deep Blue Ball",
@@ -166,7 +166,7 @@
     "new": false,
     "quantity": 1,
     "category": "smileys and people",
-    "imgUrl": "/images/ball-blue.png"
+    "imgUrl": "images/ball-blue.png"
   },
   {
     "name": "Neon Namaste",
@@ -179,7 +179,7 @@
     "new": false,
     "quantity": 1,
     "category": "smileys and people",
-    "imgUrl": "/images/ball-cyan.png"
+    "imgUrl": "images/ball-cyan.png"
   },
   {
     "name": "Fool's Gold",
@@ -192,7 +192,7 @@
     "new": false,
     "quantity": 1,
     "category": "smileys and people",
-    "imgUrl": "/images/ball-gold.png"
+    "imgUrl": "images/ball-gold.png"
   },
   {
     "name": "PGA Tour 89",
@@ -205,7 +205,7 @@
     "new": false,
     "quantity": 1,
     "category": "smileys and people",
-    "imgUrl": "/images/ball-green.png"
+    "imgUrl": "images/ball-green.png"
   },
   {
     "name": "Concrete",
@@ -218,7 +218,7 @@
     "new": false,
     "quantity": 1,
     "category": "smileys and people",
-    "imgUrl": "/images/ball-grey.png"
+    "imgUrl": "images/ball-grey.png"
   },
   {
     "name": "Lime 5000",
@@ -231,7 +231,7 @@
     "new": true,
     "quantity": 1,
     "category": "smileys and people",
-    "imgUrl": "/images/ball-lime.png"
+    "imgUrl": "images/ball-lime.png"
   },
   {
     "name": "Mordor",
@@ -244,7 +244,7 @@
     "new": true,
     "quantity": 1,
     "category": "smileys and people",
-    "imgUrl": "/images/ball-mordor.png"
+    "imgUrl": "images/ball-mordor.png"
   },
   {
     "name": "Prune Squeezer",
@@ -257,7 +257,7 @@
     "new": true,
     "quantity": 1,
     "category": "smileys and people",
-    "imgUrl": "/images/ball-purple.png"
+    "imgUrl": "images/ball-purple.png"
   },
   {
     "name": "Strawberry fields",
@@ -270,7 +270,7 @@
     "new": true,
     "quantity": 1,
     "category": "smileys and people",
-    "imgUrl": "/images/ball-red.png"
+    "imgUrl": "images/ball-red.png"
   },
   {
     "name": "Urine ball",
@@ -283,6 +283,6 @@
     "new": true,
     "quantity": 1,
     "category": "smileys and people",
-    "imgUrl": "/images/ball-yellow.png"
+    "imgUrl": "images/ball-yellow.png"
   }
 ]
